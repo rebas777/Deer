@@ -5,7 +5,7 @@ A video game made with Unity. Some assisstant links are listed below:
 
 [View the whole process recordings](https://www.youtube.com/watch?v=p0QhgXPTfug)
 
-[Download the latest release build](https://github.com/zrdumped/Deer/releases)
+[Download the latest release build](https://github.com/rebas777/Deer/releases)
 
 ### Please pay attention
 * The **microphone** is needed when playing the game. 
