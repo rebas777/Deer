@@ -9,7 +9,7 @@ A video game made with Unity. Some assisstant links are listed below:
 
 ### Please pay attention
 * The **microphone** is needed when playing the game. 
-* The build only supports **Windows** for now.
+* The build only supports **Windows** for now. We have tested it on several Win10 PCs.
 * Some **cheat** operations could be viewed in the game but are not recommended
 
 ## Introduction
